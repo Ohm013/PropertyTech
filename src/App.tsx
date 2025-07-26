@@ -182,7 +182,7 @@ function App() {
               <div className="flex items-start space-x-4">
                 <Phone className="w-5 h-5 text-accent mt-1" />
                 <div>
-                  <div className="font-medium text-text">(713) 555-0123</div>
+                  <div className="font-medium text-text">(832) 330-3164</div>
                   <div className="text-sm text-gray-500">Available 24/7</div>
                 </div>
               </div>
@@ -190,7 +190,7 @@ function App() {
               <div className="flex items-start space-x-4">
                 <Mail className="w-5 h-5 text-accent mt-1" />
                 <div>
-                  <div className="font-medium text-text">info@propertytechmanagement.com</div>
+                  <div className="font-medium text-text">hnbmeh@att.net</div>
                   <div className="text-sm text-gray-500">Response within 24 hours</div>
                 </div>
               </div>
