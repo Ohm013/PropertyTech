@@ -163,9 +163,7 @@ function App() {
                 <div className="space-y-2">
                   <div className="font-medium text-text">Specialty Work</div>
                   <div>Smart Home Integration</div>
-                  <div>Generator Installation</div>
                   <div>Outdoor Lighting</div>
-                  <div>Pool & Spa Electrical</div>
                   <div>Commercial Projects</div>
                 </div>
               </div>
