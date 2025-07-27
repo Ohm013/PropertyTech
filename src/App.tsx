@@ -41,6 +41,11 @@ function App() {
       icon: Cable,
       title: "Data Cabling",
       description: "Structured cabling and telecommunications wiring"
+    },
+    {
+      icon: Zap,
+      title: "General Electrical",
+      description: "Complete electrical repairs, installations, and upgrades"
     }
   ];
 
@@ -98,8 +103,12 @@ function App() {
             <span className="block font-medium">Technology</span>
           </h1>
           
+          <div className="text-2xl font-medium text-accent mb-4">
+            "Anything Electrical"
+          </div>
+          
           <p className="text-xl text-text mb-12 max-w-2xl mx-auto leading-relaxed">
-            Professional electrical and network installations for contemporary properties
+            Complete electrical services, repairs, and installations. If it's electrical, we can fix it or install it.
           </p>
           
           <a href="#contact" className="inline-flex items-center bg-accent text-white px-8 py-3 rounded-md hover:bg-blue-700 transition-colors group">
@@ -116,6 +125,9 @@ function App() {
             <h2 className="text-3xl font-light text-text mb-4">
               Our <span className="text-accent">Services</span>
             </h2>
+            <p className="text-text/70 mb-8">
+              From simple repairs to complex installations - if it's electrical, we handle it
+            </p>
           </div>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -127,6 +139,41 @@ function App() {
               </div>
             ))}
           </div>
+          
+          <div className="mt-16 text-center">
+            <div className="bg-white p-8 rounded-lg border border-accent/20">
+              <h3 className="text-xl font-medium text-text mb-4">Complete Electrical Services</h3>
+              <div className="grid md:grid-cols-3 gap-6 text-sm text-text/70">
+                <div className="space-y-2">
+                  <div className="font-medium text-text">Installations</div>
+                  <div>Outlets & Switches</div>
+                  <div>Ceiling Fans</div>
+                  <div>Light Fixtures</div>
+                  <div>Panel Upgrades</div>
+                  <div>Circuit Installation</div>
+                </div>
+                <div className="space-y-2">
+                  <div className="font-medium text-text">Repairs</div>
+                  <div>Troubleshooting</div>
+                  <div>Wiring Issues</div>
+                  <div>Electrical Faults</div>
+                  <div>Code Violations</div>
+                  <div>Safety Inspections</div>
+                </div>
+                <div className="space-y-2">
+                  <div className="font-medium text-text">Specialty Work</div>
+                  <div>Smart Home Integration</div>
+                  <div>Generator Installation</div>
+                  <div>Outdoor Lighting</div>
+                  <div>Pool & Spa Electrical</div>
+                  <div>Commercial Projects</div>
+                </div>
+              </div>
+              <div className="mt-6 text-accent font-medium">
+                Don't see your project listed? Contact us - we handle all electrical work!
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -136,10 +183,10 @@ function App() {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-3xl font-light text-text mb-6">
-                Licensed electrical contractors specializing in modern property technology
+                Licensed electrical contractors with expertise in all electrical work
               </h2>
               <p className="text-text/70 mb-6 leading-relaxed">
-                We provide professional installation services for security systems, electric vehicle charging, smart lighting, and network infrastructure throughout the Greater Houston area.
+                From basic electrical repairs to complex smart home installations, we handle every type of electrical project. Our motto "Anything Electrical" means exactly that - if it involves electricity, we can fix it, install it, or upgrade it.
               </p>
               <div className="flex items-center space-x-8">
                 <div>
@@ -237,6 +284,11 @@ function App() {
                 <option>Smart Lighting</option>
                 <option>Network Setup</option>
                 <option>Data Cabling</option>
+                <option>Electrical Repair</option>
+                <option>Outlet/Switch Installation</option>
+                <option>Ceiling Fan Installation</option>
+                <option>Panel Upgrade</option>
+                <option>Other Electrical Work</option>
               </select>
               
               <textarea 
