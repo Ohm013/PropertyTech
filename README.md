@@ -1,6 +1,6 @@
 PropertyTech
 
-https://grand-kringle-8f59f5.netlify.app/
+https://iridescent-caramel-03fdcd.netlify.app
 
 # Property Tech Management Website
 
@@ -48,7 +48,7 @@ This site was created to support and represent the work done at Property Tech Ma
 
 ## 🌐 Live Site
 
-🔗 https://grand-kringle-8f59f5.netlify.app/
+🔗 https://iridescent-caramel-03fdcd.netlify.app
 
 ## 🤖 How It Was Built
 
