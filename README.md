@@ -16,7 +16,6 @@ This site was created to support and represent the work done at Property Tech Ma
 - Clean, professional design suitable for small business clients
 - Deployed with CI/CD via GitHub → Netlify integration
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +24,6 @@ This site was created to support and represent the work done at Property Tech Ma
 - **Deployment**: Netlify (linked to GitHub)
 - **Version Control**: Git + GitHub
 
----
 
 ## 📂 Project Structure
 📁 property-tech-site/
@@ -48,14 +46,9 @@ This site was created to support and represent the work done at Property Tech Ma
 - Ethernet and WiFi network setup
 - Hardware mounting and structured cabling
 
----
-
 ## 🌐 Live Site
 
-🔗 [View the Live Site on Netlify](https://your-netlify-site.netlify.app)  
-> Replace this with the actual URL once you confirm the Netlify site
-
----
+🔗 https://grand-kringle-8f59f5.netlify.app/
 
 ## 🤖 How It Was Built
 
@@ -63,7 +56,6 @@ This site was created to support and represent the work done at Property Tech Ma
 - **Cursor**: Connected directly to GitHub for live coding, design tweaks, and version control
 - **GitHub + Netlify**: Automatically deploys changes from the main branch
 
----
 
 ## 📌 Future Plans
 
@@ -71,7 +63,6 @@ This site was created to support and represent the work done at Property Tech Ma
 - Include customer testimonials
 - Migrate to a CMS like Sanity or headless WordPress for easier updates
 
----
 
 ## 👋 Author
 
