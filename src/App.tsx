@@ -157,8 +157,6 @@ function App() {
                   <div>Troubleshooting</div>
                   <div>Wiring Issues</div>
                   <div>Electrical Faults</div>
-                  <div>Code Violations</div>
-                  <div>Safety Inspections</div>
                 </div>
                 <div className="space-y-2">
                   <div className="font-medium text-text">Specialty Work</div>
